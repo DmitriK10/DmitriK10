@@ -18,7 +18,7 @@
 ## 🚀 Мои проекты (закреплены ниже)
 
 - **[Zerocode_Vibecoder](https://github.com/DmitriK10/Zerocode_Vibecoder)** – сайт-портфолио и Telegram-бот на единой базе проектов.
-- ... (добавь свои лучшие проекты)
+- ... 
 
 ## 📊 GitHub статистика
 
