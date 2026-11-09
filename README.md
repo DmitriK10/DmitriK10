@@ -52,6 +52,8 @@ Django 5.2: клиенты, задачи с приоритетами, цели �
 ### [CI/CD: FastAPI → Docker → GHCR → деплой](https://github.com/DmitriK10/test-actions)
 Пайплайн на GitHub Actions: сборка образа, публикация в GHCR с тегами по SHA, деплой на сервер по SSH. Две джобы, кэш сборки, секреты.
 
+**Работает:** [Time Server API](http://185.105.116.187/api/time/docs) — развёрнут через docker compose за nginx, Swagger открывается.
+
 `GitHub Actions` `Docker` `FastAPI` `SSH`
 
 ---
