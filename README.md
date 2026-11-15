@@ -72,7 +72,7 @@ Django 5.2: клиенты, задачи с приоритетами, цели �
 ## Контакты
 
 - Telegram: [@DmitriiKp](https://t.me/DmitriiKp)
-- E-mail: [kupriyanyuk.d@yandex.ru](mailto:kupriyanyuk.d@yandex.ru)
+- E-mail: [dmitrii@kupriianiuk.ru](mailto:dmitrii@kupriianiuk.ru)
 
 Открыт к задачам по автоматизации процессов, интеграциям с ИИ и разработке на Python.
 
