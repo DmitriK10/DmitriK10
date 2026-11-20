@@ -34,7 +34,13 @@
 
 ## Избранные проекты
 
-### [TaskMentor](https://github.com/DmitriK10/Zerocoder_Python/tree/main/taskmentor) — CRM для коучей и наставников
+### [Distil](https://distil.mooo.com) — из текста в задачи · **[живой стенд →](https://distil.mooo.com)**
+
+Выпускной проект курса «Вайб-кодинг и автономные агенты». Превращает письма и заметки в структурированный JSON: ответственный, срок, приоритет, цитата из исходного текста. Где модель не уверена — помечает на ручную проверку с причиной. Каждый запуск попадает в аудит.
+
+`FastAPI` `PostgreSQL` `SQLAlchemy 2.0` `HTMX` `Docker` — 169 тестов, mypy strict, HTTPS. [Код](https://github.com/DmitriK10/Distil)
+
+### [TaskMentor](https://github.com/DmitriK10/TaskMentor) — CRM для коучей и наставников
 Django 5.2: клиенты, задачи с приоритетами, цели с автопрогрессом, дневник настроения. Вход через Google OAuth, синхронизация задач с Google Calendar, Web Push и Firebase Cloud Messaging, автоперенос просрочек, 6 миграций, 81 тест.
 
 `Python` `Django` `PostgreSQL` `Google API` `FCM` — [описание и запуск](https://github.com/DmitriK10/Zerocoder_Python/tree/main/taskmentor)
